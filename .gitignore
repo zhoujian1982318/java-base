@@ -20,6 +20,7 @@ target/
 *.zip
 *.tar
 *.tar.gz
+*.nar
 
 # eclipse ignore
 .settings/
